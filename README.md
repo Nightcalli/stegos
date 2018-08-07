@@ -1,6 +1,9 @@
 # stegos
 модуль для python, скрывающий информацию стеганографическим способом
 
+# Установка
+pip(3) install stegos 
+
 # Использование
 **Подключение:**
 from stegos import urlImg, readFile, hideMsg
