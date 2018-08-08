@@ -7,7 +7,7 @@
 
 # Использование
 **Подключение:**
-from stegos import urlImg, readFile, hideMsg
+from stegos import urlImg, readFile, hideMsg, hideArh
 
 **Описание функций:**<br><br>
 **readFile('file_path')** считывает байты файла<br>
