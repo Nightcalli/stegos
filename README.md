@@ -2,7 +2,7 @@
 модуль для python, скрывающий информацию стеганографическим способом
 
 # Установка
-**linux:** pip3 install stegos
+**linux:** pip3 install stegos <br>
 **windows:** pip install stegos
 
 # Использование
